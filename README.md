@@ -7,7 +7,7 @@ I'm Agustina Maraz, a passionate programmer analyst 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about ReactJS.
+- :seedling: I’m currently learning about ReactJS and Python with Django.
 - 🤔 I’m looking for a job.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
